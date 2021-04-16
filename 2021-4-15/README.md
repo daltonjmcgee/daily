@@ -1,7 +1,4 @@
-# daily - a series of almost-daily projects.
-
-
-## 2021-4-15
+# 2021-4-15
 
 ### Technologies
 * Javascript
