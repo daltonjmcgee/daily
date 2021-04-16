@@ -10,7 +10,7 @@
 * [ThreeJS](http://threejs.org/)
 * Webpack
 * [dat.gui](https://www.npmjs.com/package/dat.gui)
-* 
+
 ### Resources and details
 I was inspired to do this by [Gary Simon](https://github.com/designcourse) of DesignCourse's series on ThreeJS over on [YouTube](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow). 
 
