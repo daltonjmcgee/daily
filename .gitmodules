@@ -1,9 +1,9 @@
 [submodule "2021-4-15"]
 	path = 2021-4-15
-	url = ./2021-4-15
+	url = https://github.com/daltonjmcgee/2021-4-15
 [submodule "2021-4-20"]
 	path = 2021-4-20
-	url = ./2021-4-20
+	url = https://github.com/daltonjmcgee/2021-4-20
 [submodule "2021-4-26"]
 	path = 2021-4-26
-	url = ./2021-4-26
+	url = https://github.com/daltonjmcgee/2021-4-26
