@@ -19,3 +19,6 @@
 [submodule "2021-12-24"]
 	path = 2021-12-24
 	url = https://github.com/daltonjmcgee/2021-12-24
+[submodule "2022-01-03"]
+	path = 2022-01-03
+	url = https://github.com/daltonjmcgee/2022-01-03
